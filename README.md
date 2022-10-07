@@ -19,6 +19,7 @@ This mod originally was developed to
 - This mod uses the standard X carriage parts
 - This mod should work with all types of extruder mounting parts, including CW2 (however, I have not yet tested it). I use the orbiter V2 extruder mount found [here](https://github.com/sneakytreesnake/StealthOrbiter).
 - Print the cooling duct with no supports (if your printer can handle the overhang at the top) or build plate only supports, file in STL folder.
+- Print the front toolhead part with supports. The rear toolhead part is the standard rapido voron part.
 - Print the offset klickyprobe mount, file in STL folder.
 
 
