@@ -13,9 +13,18 @@ This mod was developed to:
 
 # Gallery
 
+MY setup:
+
 <img width="751" alt="Screen Shot 2022-06-23 at 6 24 17 PM" src="https://user-images.githubusercontent.com/12782053/194479013-b6fde3b8-cf25-49be-87e4-bf0bb4626d9a.jpeg">
 
-<img width="400" alt="Screen Shot 2022-06-23 at 6 24 17 PM" src="https://user-images.githubusercontent.com/12782053/222337583-873925ad-f993-488b-90a2-e49569a7a28f.png"> <img width="400" alt="Screen Shot 2022-06-23 at 6 24 17 PM" src="https://user-images.githubusercontent.com/12782053/222337428-eb011e2a-9513-4481-a15d-a28cbcbea5da.png">
+CFD results:
+
+<img width="400" alt="Screen Shot 2022-06-23 at 6 24 17 PM" src="https://user-images.githubusercontent.com/12782053/222349741-af51ee42-947d-4d13-abc0-36f03b5f4968.png"> <img width="400" alt="Screen Shot 2022-06-23 at 6 24 17 PM" src="https://user-images.githubusercontent.com/12782053/222350137-e37b25a5-53a1-4d56-90b9-6fde59ddf052.png">
+<img width="600" alt="Screen Shot 2022-06-23 at 6 24 17 PM" src="https://user-images.githubusercontent.com/12782053/222349658-3f779d3e-316e-43d4-90a7-016135d2e329.png"> 
+
+
+
+
 
 
 ## Dragon SF/HF
