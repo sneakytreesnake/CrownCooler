@@ -6,7 +6,8 @@ This mod was developed to:
 - improve overall cooling performance by accomodating very large fans
 - provide uniform cooling from all directions
 - be lightweight and easy to maintain
-- be compatible with standard voron stealthburner carriage and extruder mounting parts
+- be compatible with standard voron stealthburner carriage
+- be compatible with all extruder combinations that are compatible with the stealthburner system
 - work with klickyprobe & euclid probe.
 
 **This mod is still a BETA. Expect issues - but let me know about them so I can fix them.**
