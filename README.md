@@ -47,7 +47,10 @@ CFD results:
 <img width="751" alt="Screen Shot 2022-06-23 at 6 24 17 PM" src="https://user-images.githubusercontent.com/12782053/218704885-2a11518a-dcc6-4f44-9f16-5dac49e67290.png">
 <img width="751" alt="Screen Shot 2022-06-23 at 6 24 17 PM" src="https://user-images.githubusercontent.com/12782053/218704891-6dc8b409-11c5-4ee8-83e8-0532968b098a.png">
 
-
+# BOM
+- 2510 fan. [I purchased this one.](https://www.aliexpress.com/item/33030471365.html)
+- QTY:2,  2.5mm x 14mm self tapping screw, for 2510 fan.
+- M3x4x5 heatset inserts
 
 # Installation instructions 
 - This mod uses the standard stealthburner X carriage parts. The back piece of the rapido toolhead mount is also used.
