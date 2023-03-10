@@ -1,30 +1,35 @@
 # CrownCooler
-"Crown" shaped cooling duct and associated hot end mount for Voron Trident and V2.4 printers
+This mod is designed to adapt a fan mounted somewhere on the frame, through a CPAP tube and onto a "crown" shaped cooling duct. It has been designed for the Voron 2.4 and Voron Trident series of printers, mounting directly to the stealthburner X carriage.
 
 This mod was developed to:
 - mount a Rapido HF/UHF hot end & Dragon SF/HF/UHF hot end
-- improve overall cooling performance by increasing airflow using a CPAP tube
-- provide uniform cooling with airflow directed downwards
+- improve overall cooling performance by accomodating very large fans
+- provide uniform cooling from all directions
 - be lightweight and easy to maintain
-- be compatible with standard voron carriage and extruder mounting parts
-- work with klickyprobe & euclid probe
+- be compatible with standard voron stealthburner carriage and extruder mounting parts
+- work with klickyprobe & euclid probe.
 
-**This mod is still a BETA. Expect issues.**
+**This mod is still a BETA. Expect issues - but let me know about them so I can fix them.**
+
+**Feel free to contact me directly on discord if you would like to help me test this mod and provide feedback.**
 
 # Gallery
 
-MY setup:
+### My setup:
+My system specifications:
+- Voron 2.4r2
+- UHF rapido with CHT volcano nozzle
+- Orbiter V2.0
+- Euclid probe
+
+A WS7040 blower can effectively cool volumetric flow rates beyond 70 mm^3/s (this is the limit of the hot end, NOT the cooling!).
 
 <img width="751" alt="Screen Shot 2022-06-23 at 6 24 17 PM" src="https://user-images.githubusercontent.com/12782053/194479013-b6fde3b8-cf25-49be-87e4-bf0bb4626d9a.jpeg">
 
-CFD results:
+### CFD results:
 
 <img width="400" alt="Screen Shot 2022-06-23 at 6 24 17 PM" src="https://user-images.githubusercontent.com/12782053/222349741-af51ee42-947d-4d13-abc0-36f03b5f4968.png"> <img width="400" alt="Screen Shot 2022-06-23 at 6 24 17 PM" src="https://user-images.githubusercontent.com/12782053/222350137-e37b25a5-53a1-4d56-90b9-6fde59ddf052.png">
 <img width="600" alt="Screen Shot 2022-06-23 at 6 24 17 PM" src="https://user-images.githubusercontent.com/12782053/222349658-3f779d3e-316e-43d4-90a7-016135d2e329.png"> 
-
-
-
-
 
 
 ## Dragon SF/HF
@@ -47,10 +52,41 @@ CFD results:
 <img width="751" alt="Screen Shot 2022-06-23 at 6 24 17 PM" src="https://user-images.githubusercontent.com/12782053/218704885-2a11518a-dcc6-4f44-9f16-5dac49e67290.png">
 <img width="751" alt="Screen Shot 2022-06-23 at 6 24 17 PM" src="https://user-images.githubusercontent.com/12782053/218704891-6dc8b409-11c5-4ee8-83e8-0532968b098a.png">
 
+# Part Cooling Fan Options
+
+There are a number of part cooling fan options to choose from, depending on your intended use case.
+
+### 4028 fan
+
+<img width="250" alt="Screen Shot 2022-06-23 at 6 24 17 PM" src="https://user-images.githubusercontent.com/12782053/224202478-e5becb0b-ecc1-4771-b074-3288d9c18826.png">
+
+
+A "medium" performance option is to use a 4028 fan on the end of the CPAP tube. This solution is best suited for ABS and similiar materials (or PLA but printing at slow speeds, aka <200mm/s) that do not require high amounts of part cooling. 
+
+A 4028 to CPAP tube adapter part is included in the STL files folder. I have not developed a mount to attach the fan to the frame, but I intend to do this soon.
+
+Recommended 4028 fans include:
+- Sanyo 9GAX0412P3S001
+- Delta FFB0412UHN-SM36
+
+### 7040 blower fan
+
+<img width="300" alt="Screen Shot 2022-06-23 at 6 24 17 PM" src="https://user-images.githubusercontent.com/12782053/224202438-7c1f9482-3080-46ef-9dcf-3d7adbacfff1.jpg">
+
+A "high" performance is to use a 7040 blower fan on the end of the CPAP tube. This solution is best suited for printing PLA & PETG at low to very high speeds. It can print ABS, however it will likely be cooled more than required (due to the minimum fan speed of the blower) - and the ABS part strength will be decreased.
+
+A 7040 blower fan mount can be found [here.](https://www.printables.com/model/324265-ws7040-centrifugal-blower-fan-mount)
+
+I recommend the WS7040 along with the controller board. I purchased mine from [Trianglelab here.](https://www.aliexpress.com/item/1005003822117604.html)
+
 # BOM
-- 2510 fan. [I purchased this one.](https://www.aliexpress.com/item/33030471365.html)
+- 2510 hotend cooling fan. [I purchased this one.](https://www.aliexpress.com/item/33030471365.html)
 - QTY:2,  2.5mm x 14mm self tapping screw, for 2510 fan.
-- M3x4x5 heatset inserts
+- QTY:2 M3x4x5 heatset inserts
+- QTY:2 M3x8mm SHCS DIN912
+- QTY:2 M3x16mm SHCS DIN912
+- QTY:2 M3x50mm SHCS DIN912
+- Blower fan, see section above.
 
 # Installation instructions 
 - This mod uses the standard stealthburner X carriage parts. The back piece of the rapido toolhead mount is also used.
