@@ -2,12 +2,13 @@
 This mod is designed to adapt a fan mounted somewhere on the frame, through a CPAP tube and onto a "crown" shaped cooling duct. It has been designed for the Voron 2.4 and Voron Trident series of printers, mounting directly to the stealthburner X carriage.
 
 This mod was developed to:
+- be compatible with standard voron stealthburner carriage
+- be compatible with all extruder combinations that are compatible with the stealthburner system, (CW1, CW2, Orbiter, LGX Lite, etc.)
 - mount a Rapido HF/UHF hot end & Dragon SF/HF/UHF hot end
 - improve overall cooling performance by accomodating very large fans
 - provide uniform cooling from all directions
 - be lightweight and easy to maintain
-- be compatible with standard voron stealthburner carriage
-- be compatible with all extruder combinations that are compatible with the stealthburner system
+
 - work with klickyprobe & euclid probe.
 
 **This mod is still a BETA. Expect issues - but let me know about them so I can fix them.**
