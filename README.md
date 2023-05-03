@@ -105,5 +105,16 @@ I recommend the WS7040 along with the controller board. I purchased mine from [T
 
 3)[COMING SOON] - Rapido UHF release. Other hot ends will be released afterwards. 
 
+#V2 Sneek Peak
+
+Based on beta feedback, a V2 of the crowncooler is being developed and currently undergoing testing.
+
+
+![CrownCoolerV2](https://user-images.githubusercontent.com/12782053/236075661-5eef9876-432e-4b2d-9f55-3736e35f87c8.jpg)
+![CrownCoolerV2-1](https://user-images.githubusercontent.com/12782053/236075664-2ce9a560-bdc1-4e15-8e94-6d1b76e40ca8.jpg)
+![CrownCoolerV2-2](https://user-images.githubusercontent.com/12782053/236075655-6a557129-4c38-425b-9006-fb8273492518.jpg)
+![CrownCoolerV2-3](https://user-images.githubusercontent.com/12782053/236075658-a560ee25-6d28-445f-a76f-bb3479a3eab2.jpg)
+![CrownCoolerV2-4](https://user-images.githubusercontent.com/12782053/236075660-1e88b1c0-aee8-4450-aa71-69d7574bdeb9.jpg)
+
 
 
