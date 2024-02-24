@@ -1,6 +1,8 @@
 # CrownCooler
 This mod is designed to adapt a fan mounted somewhere on the frame, through a CPAP tube and onto a "crown" shaped cooling duct. It has been designed for the Voron 2.4 and Voron Trident series of printers, mounting directly to the stealthburner X carriage.
 
+<img height="350" src="https://github.com/sneakytreesnake/CrownCooler/assets/12782053/add31050-2a75-48c6-9f3f-3691cecbd244"> <img height="350" src="https://github.com/sneakytreesnake/CrownCooler/assets/12782053/74c4a7ec-f316-4417-a0e7-7440b1d52c16">
+
 This mod was developed to:
 - be compatible with standard voron stealthburner carriage
 - be compatible with all extruder combinations that are compatible with the stealthburner system, (CW1, CW2, Orbiter, LGX Lite, etc.)
@@ -12,7 +14,7 @@ This mod was developed to:
 
 The design of the crown duct creates a fluid vortex at the tip of the nozzle, resulting in high cooling performance. It was designed using commercial CFD software, and validated experimentally. There is a secondary air cooling route fed by the part cooling fan to prevent warping of the duct from hot end heat. 
 
-<img height="500" src="https://github.com/sneakytreesnake/CrownCooler/assets/12782053/74c4a7ec-f316-4417-a0e7-7440b1d52c16">
+
 
 **This mod is still a BETA. Expect issues - but let me know about them so I can fix them.**
 
