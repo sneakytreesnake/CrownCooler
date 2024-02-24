@@ -19,18 +19,18 @@ The design of the crown duct creates a fluid vortex at the tip of the nozzle, re
 ## V2.5 Update (February 2024)
 The flow path has been updated in the latest version. It provides approximately **twice the cooling performance compared to the previous version!** In my testing, I was able to print 80degree angles at 30% fan rate (WS7040) with an enclosure temperature of 70C, 0.6mm nozzle size and 0.3mm layer height.
 
-<img height="300" src="https://github.com/sneakytreesnake/CrownCooler/assets/12782053/8cca6188-6ca9-4a53-a915-d4124c97ca41"> <img height="300" src="https://github.com/sneakytreesnake/CrownCooler/assets/12782053/549b24a2-ac11-48a9-91bf-e81809008d80"> <img height="300" src="https://github.com/sneakytreesnake/CrownCooler/assets/12782053/562da77c-ff3f-4976-85aa-9819bffe673f">
+<img height="200" src="https://github.com/sneakytreesnake/CrownCooler/assets/12782053/8cca6188-6ca9-4a53-a915-d4124c97ca41"> <img height="200" src="https://github.com/sneakytreesnake/CrownCooler/assets/12782053/549b24a2-ac11-48a9-91bf-e81809008d80"> <img height="200" src="https://github.com/sneakytreesnake/CrownCooler/assets/12782053/562da77c-ff3f-4976-85aa-9819bffe673f">
 
 
 # Gallery
 
-<img height="400" src="https://user-images.githubusercontent.com/12782053/236075661-5eef9876-432e-4b2d-9f55-3736e35f87c8.jpg"> <img height="400" src="https://user-images.githubusercontent.com/12782053/236075664-2ce9a560-bdc1-4e15-8e94-6d1b76e40ca8.jpg"> <img height="400" src="https://user-images.githubusercontent.com/12782053/236075658-a560ee25-6d28-445f-a76f-bb3479a3eab2.jpg"> <img height="400" src="https://user-images.githubusercontent.com/12782053/236075660-1e88b1c0-aee8-4450-aa71-69d7574bdeb9.jpg">
+<img height="400" src="https://user-images.githubusercontent.com/12782053/236075661-5eef9876-432e-4b2d-9f55-3736e35f87c8.jpg"> <img height="400" src="https://user-images.githubusercontent.com/12782053/236075664-2ce9a560-bdc1-4e15-8e94-6d1b76e40ca8.jpg"> <img height="400" src="https://user-images.githubusercontent.com/12782053/236075660-1e88b1c0-aee8-4450-aa71-69d7574bdeb9.jpg">
 
 
 ## CFD results:
 You can clearly see a vortex being formed around the ring. This creates a cycle of air that rapidly carries heat from the printed part, allowing printong of steep overhangs.
 
-<img height="250" src="https://github.com/sneakytreesnake/CrownCooler/assets/12782053/173023b3-ced1-4b6f-bc01-e7dc6b1ef601"> <img height="250" src="https://github.com/sneakytreesnake/CrownCooler/assets/12782053/de835ec7-2a6e-41e7-95e0-ca142d315e8a">
+<img height="225" src="https://github.com/sneakytreesnake/CrownCooler/assets/12782053/173023b3-ced1-4b6f-bc01-e7dc6b1ef601"> <img height="225" src="https://github.com/sneakytreesnake/CrownCooler/assets/12782053/de835ec7-2a6e-41e7-95e0-ca142d315e8a">
 
 # Part Cooling Fan Options
 
