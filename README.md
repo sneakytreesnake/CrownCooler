@@ -1,4 +1,4 @@
-# CrownCooler
+# CrownCooler - Ring shaped CPAP cooling duct for Voron 3D printers
 This mod is designed to adapt a fan mounted somewhere on the frame, through a CPAP tube and onto a "crown" shaped cooling duct. It has been designed for the Voron 2.4 and Voron Trident series of printers, mounting directly to the stealthburner X carriage.
 
 <img height="350" src="https://github.com/sneakytreesnake/CrownCooler/assets/12782053/add31050-2a75-48c6-9f3f-3691cecbd244"> <img height="350" src="https://github.com/sneakytreesnake/CrownCooler/assets/12782053/74c4a7ec-f316-4417-a0e7-7440b1d52c16">
