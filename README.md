@@ -54,7 +54,7 @@ Recommended 4028 fans include:
 
 <img width="300" alt="Screen Shot 2022-06-23 at 6 24 17 PM" src="https://user-images.githubusercontent.com/12782053/224202438-7c1f9482-3080-46ef-9dcf-3d7adbacfff1.jpg">
 
-A "high" performance is to use a 7040 blower fan on the end of the CPAP tube. This solution is best suited for printing PLA & PETG at low to very high speeds. It can print ABS, however it will likely be cooled more than required (due to the minimum fan speed of the blower) - and the ABS part strength will be decreased.
+A "high" performance is to use a 7040 blower fan on the end of the CPAP tube. This solution is best suited for printing PLA & PETG & ABS at very high speeds.
 
 A 7040 blower fan mount can be found [here.](https://www.printables.com/model/324265-ws7040-centrifugal-blower-fan-mount)
 
