@@ -17,7 +17,7 @@ The design of the crown duct creates a fluid vortex at the tip of the nozzle, re
 
 **This mod is still a BETA. Expect issues - but let me know about them so I can fix them.**
 ## Dev Update (July 2024)
-After a lot of experimenting with other cooling designs such as the [Tentacool](https://github.com/MirageC79/HextrudORT/tree/main/files/COOLING/TENTACOOL, I plan on merging the ideas produced from the V2.5 cooler, with the ideas from the Tentacool. I don't want to give a release date as it's a slow process, but a release is on the hoizon. 
+After a lot of experimenting with other cooling designs such as the [Tentacool](https://github.com/MirageC79/HextrudORT/tree/main/files/COOLING/TENTACOOL), I plan on merging the ideas produced from the V2.5 cooler, with the ideas from the Tentacool. I don't want to give a release date as it's a slow process, but a release is on the hoizon. 
 
 Until then, I will build in support for other hot ends (dragon HF, Rapido UHF for now. I am open to further requests). These will be release as soon as possible. The V2.5 duct and a modified Tentacool duct will be included in this release. I expect to release this by the end of July.
 
