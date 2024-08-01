@@ -16,6 +16,14 @@ The design of the crown duct creates a fluid vortex at the tip of the nozzle, re
 
 
 **This mod is still a BETA. Expect issues - but let me know about them so I can fix them.**
+## Dev Update (August 2024)
+I have created a Dragon (SF/HF) toolhead mount.  
+<img height="350" src="https://github.com/user-attachments/assets/0789328b-c0b4-44b9-b855-8be3298229f2">
+
+Furthermore, I have created a new duct design. This combines the ideas I have created in the crown design, along with the tentacool duct. I'm still working on airflow optimisation but so far the performance is good.
+
+The Dragon mount will be released in the coming days, and the duct will be released after some more testing.
+
 ## Dev Update (July 2024)
 After a lot of experimenting with other cooling designs such as the [Tentacool](https://github.com/MirageC79/HextrudORT/tree/main/files/COOLING/TENTACOOL), I plan on merging the ideas produced from the V2.5 cooler, with the ideas from the Tentacool. I don't want to give a release date as it's a slow process, but a release is on the hoizon. 
 
