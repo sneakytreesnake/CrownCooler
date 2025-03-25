@@ -17,10 +17,18 @@ The design of the crown duct creates a fluid vortex at the tip of the nozzle, re
 
 **This mod is still a BETA. Expect issues - but let me know about them so I can fix them.**
 
+## Dev Update (Mar 2025)
+I've uploaded the Fusion 360 native CAD assembly.
+
+<img height="350" src="https://github.com/user-attachments/assets/1e185946-2d15-4018-803c-18fd2f2cf031">
+
+I am currently testing the Dragon SF/HF version. Working well so far. 
+My Rapido hotend is damaged so I can no longer test that one personally.
+
+
 ## Dev Update (Sept 2024)
 I have added a trimmed down X carriage mount to fit the new duct. I've also added a adapter mount for the Euclid Probes. Let me know if there is interest for a Klicky mount and I will make one.
 
-<img height="350" src="https://github.com/user-attachments/assets/c99511c7-beb7-438d-a9ab-07203bd7658b">
 
 ## Dev Update (August 2024)
 I have created a Dragon (SF/HF) toolhead mount.  
